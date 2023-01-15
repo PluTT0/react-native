@@ -1,2 +1,2 @@
-# eact-native
+# react-native
 Course
